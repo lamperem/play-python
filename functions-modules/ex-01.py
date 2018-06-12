@@ -13,3 +13,4 @@ def myFunctionWithParameters(param1,param2):
 myFuncion();
 myFunctionWithParameter("I am a parameter")
 myFunctionWithParameter("I am a parameter")
+myFunctionWithParameters('Hello','World')
